@@ -1,0 +1,8 @@
+bs4
+selenium
+dateparser
+celery
+redis
+django-celery-beat
+django-celery-results
+django-celery-transactions

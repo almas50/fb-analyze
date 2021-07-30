@@ -1,0 +1,9 @@
+.page{
+    height: 80vh;
+    background-color: #f8f8f8;
+    border: solid 1px #cecece;
+}
+.main{
+    padding-top: 30vh;
+    padding-left: 40%;
+}
